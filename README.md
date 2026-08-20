@@ -1,5 +1,9 @@
 # Robust Kalman Filtering for Attitude/Pitch Estimation (REKF & RUKF)
 
+> **Course Project:** ELL7102 – Stochastic Process and Filtering  
+> **Institution:** IIT Delhi  
+> **Instructor:** Prof. Shubhendu Bhasin  
+
 Course project implementing and comparing **standard vs. robust Kalman filters**
 (EKF, UKF, REKF, RUKF) for two estimation problems:
 
