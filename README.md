@@ -103,3 +103,6 @@ time for each filter pair).
 ## Author
 
 Muhammed Aslam A — M.Tech, Electrical Engineering, IIT Delhi
+Govind U - M.S.R, Electrical Engineering, IIT Delhi
+
+
